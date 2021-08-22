@@ -18,7 +18,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/aarjeyanshrestha/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/aarjeyan-shrestha-5618981a7?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BhvWnSD3BTLerMSDt1kHvqg%3D%3D"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
 </p>
 
